@@ -10,6 +10,8 @@ Outside of expanding my knowledge of software development, I enjoy spending time
 
 Thank you for taking the time to check out my profile. I hope that you have a great day and feel free to reach out to me for any questions!
 
+Also check out my Udemy profile to see what I am learning! [Udemy](https://www.udemy.com/user/ricardo-hernandez-4612/)
+
 God bless you.
 
 - **How to reach me:** [ricahernandez0001@gmail.com](mailto:ricahernandez0001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ricardohern/).
