@@ -6,7 +6,7 @@ My Catholic faith is integral to who I am, as it led me to take a year away from
 
 I am passionate about making a positive impact on the world and improving the lives of others. While financial gain is not my primary motivation in this field, I am driven by the opportunity to serve others, whether in the workplace or through the products and services I help develop.
 
-Outside of expanding my knowledge of software development, I enjoy spending time with God, my family, and friends, as well as working out, running, gardening, and playing guitar. Although I have loved computer science and technology since I was a child, I make a conscious effort to unplug from the screen to be present to those around me. While I believe work is sanctifying and good, I also recognize the importance of giving attention to those who need and want it.
+Outside of expanding my knowledge of software development, I enjoy spending time with God, my family, and friends, as well as working out, running, gardening, and playing guitar. Although I have loved computer science and technology since I was a child, I make a conscious effort to unplug from the screen to be present to those around me. While I believe work is important and good, I also recognize the importance of giving attention to those who need and want it.
 
 Thank you for taking the time to check out my profile. I hope that you have a great day and feel free to reach out to me for any questions!
 
