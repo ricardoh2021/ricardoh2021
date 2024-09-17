@@ -2,6 +2,9 @@
 
 My name is Ricardo Hernandez, and I am a 2021 graduate of Gettysburg College with a Bachelor of Science in Computer Science, along with minors in Mathematics and Spanish. I have experience in various areas of software development, from back-end to front-end, and hold an AWS Certified Solutions Architect – Associate certification (2023-2026) from my time at Publicis Sapient. I am a quick learner who thrives in challenging environments, as I believe growth happens outside of our comfort zones.
 
+## What sets me apart:
+I believe my greatest strengths are my adaptability and eagerness to learn. I quickly ramp up with new technologies and thrive in diverse teams, such as my experience working with international colleagues at Publicis Sapient. I’m detail-oriented and value documentation, always thinking about how to make future transitions smoother for others. My background in SAFe Agile development and cross-functional collaboration with DevOps, UI, and Project Management has equipped me with a holistic understanding of the software development cycle. My time in the seminary deepened my empathy and patience, reminding me that growth is a long-term process. I value feedback and strive to help both myself and my team succeed.
+
 My Catholic faith is integral to who I am, as it led me to take a year away from the workforce to enter Saint Charles Borromeo Seminary to discern the priesthood and explore how I can use my gifts and talents to serve others. During that year of prayer and discernment, I formed deep bonds with amazing friends—whom I prefer to call brothers—but ultimately felt a stronger calling to contribute to the world through my professional work. My heart’s desire is to combine my love for God and neighbor with my passion for software development.
 
 I am passionate about making a positive impact on the world and improving the lives of others. While financial gain is not my primary motivation in this field, I am driven by the opportunity to serve others, whether in the workplace or through the products and services I help develop.
@@ -13,6 +16,8 @@ Thank you for taking the time to check out my profile. I hope that you have a gr
 Also check out my Udemy profile to see what I am learning! [Udemy](https://www.udemy.com/user/ricardo-hernandez-4612/)
 
 God bless you.
+
+**TL;DR:** Software Engineer that is not afraid of new challenges/obstacles. Strives to continually improve oneself, the product, and those around him.
 
 - **How to reach me:** [ricahernandez0001@gmail.com](mailto:ricahernandez0001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ricardohern/).
 - **Fun fact:** I love boxing and MMA, and I also enjoy watching both! During quarantine, my brothers and I created a small home gym to stay active and pass the time. We set up a boxing bag, a speed bag, and even did drills with mitts at one point. It was a lot of fun.
